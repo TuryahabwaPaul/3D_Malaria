@@ -1,0 +1,8 @@
+tb_logs/
+inputs/
+results/
+__pycache__/
+*.sh
+utils/__pychache__/
+.idea/
+trainers/__pycache__/
